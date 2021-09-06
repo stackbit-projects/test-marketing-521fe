@@ -42,7 +42,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "anncmnt_has_close": true
     },
     "footer": {
         "logo": "images/logo.svg",
